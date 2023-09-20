@@ -1,0 +1,39 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.secao-topo img {
+    width: 100%
+}
+
+div {
+    text-align: justify;
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    color: tomato;
+    text-align: center;
+}
+
+h3 {
+    color: crimson;
+    text-align: justify;
+    text-decoration: underline;
+}
+
+h4 {
+    color: tomato;
+    text-align: justify;
+}
+
+p {
+    line-height: 20px;
+}
